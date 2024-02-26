@@ -1,4 +1,4 @@
-
+![Screenshot (2)](https://github.com/vishnuu5/Nextjs-reactjs-Assignment/assets/139614960/48bf7fe6-4c32-4af0-be32-ad672e6a1e30)
   # Task
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
@@ -8,11 +8,15 @@
   2) In the terminal, run `npm install`
   3) Run `npm run dev` to view project in browser
 
+# Screenshot;
+![nextjs project](https://github.com/vishnuu5/Nextjs-reactjs-Assignment/assets/139614960/cdb46f55-0020-4966-aed9-9eb0122dbf55)
 
-Certainly! Here's a README.md template for your Next.js/React.js internship assignment:
 
-markdown
-Copy code
+# Project Live;
+**[Click Here](https://nextjs-reactjs-assignment.vercel.app/)
+
+
+
 # ReactJS/NextJS Internship Assignment
 
 This project is the submission for the ReactJS/NextJS internship assignment. The objective is to convert a one-page Figma design into a Next.js/React.js website, focusing on modular components and project structure.
