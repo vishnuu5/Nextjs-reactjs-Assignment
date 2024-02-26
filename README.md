@@ -1,4 +1,4 @@
-![Screenshot (2)](https://github.com/vishnuu5/Nextjs-reactjs-Assignment/assets/139614960/48bf7fe6-4c32-4af0-be32-ad672e6a1e30)
+
   # Task
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
